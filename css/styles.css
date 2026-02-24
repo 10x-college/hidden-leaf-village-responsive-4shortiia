@@ -723,6 +723,7 @@ body {
     .footer {
         width: 100%;
         height: 90px;
+        margin-top: 205px;
 
         p {
             color: #ffffff;
@@ -736,7 +737,7 @@ body {
     .footer {
         width: 100%;
         height: 90px;
-        margin-top: 151px;
+        margin-top: 205px;
 
         p {
             color: #ffffff;
